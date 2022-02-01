@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526325187360",
+    "project_id": "correctionfirebase",
+    "storage_bucket": "correctionfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526325187360:android:ed23456a4d84e490ac8d45",
+        "android_client_info": {
+          "package_name": "re.etienne.correctionfirebase.correctionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526325187360-pcjcpjc3ahfo5fligtvdfukdludp05j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATheMqMXU2yYr1-beelDpVfW0acHntSdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526325187360-pcjcpjc3ahfo5fligtvdfukdludp05j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
